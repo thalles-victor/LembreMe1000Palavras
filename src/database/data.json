@@ -1,0 +1,4005 @@
+{
+  "vocabulary" : {
+    
+          "the" : { 
+            "Traducao": "o, a, os, as"
+          },
+
+          "of" : {
+              "Traducao" :"de"
+          },
+      
+          "to" : {
+              "Traducao" :"para"
+          },
+      
+          "and" : {
+              "Traducao" :"e"
+          },
+      
+          "a" : {
+              "Traducao" :"um, uma"
+          },
+      
+          "in" : {
+              "Traducao" :"em, dentro"
+          },
+      
+          "is" : {
+              "Traducao" :"é"
+          },
+      
+          "it" : {
+              "Traducao" :"este"
+          },
+      
+          "you" : {
+              "Traducao" :"você"
+          },
+      
+          "that" : {
+              "Traducao" :"que, aquele"
+          },
+      
+          "he" : {
+              "Traducao" :"ele"
+          },
+      
+          "was" : {
+              "Traducao" :"era, estava"
+          },
+      
+          "for" : {
+              "Traducao" :"por, para"
+          },
+      
+          "on" : {
+              "Traducao" :"em"
+          },
+      
+          "are" : {
+              "Traducao" :"são, estão"
+          },
+      
+          "with" : {
+              "Traducao" :"com"
+          },
+      
+          "as" : {
+              "Traducao" :"como, enquanto"
+          },
+      
+          "I" : {
+              "Traducao" :"eu"
+          },
+      
+          "his" : {
+              "Traducao" :"seu"
+          },
+      
+          "they" : {
+              "Traducao" :"eles"
+          },
+      
+          "be" : {
+              "Traducao" :"ser, estar"
+          },
+      
+          "at" : {
+              "Traducao" :"em"
+          },
+      
+          "one" : {
+              "Traducao" :"um"
+          },
+      
+          "have" : {
+              "Traducao" :"ter"
+          },
+      
+          "this" : {
+              "Traducao" :"este"
+          },
+      
+          "from" : {
+              "Traducao" :"de"
+          },
+      
+          "or" : {
+              "Traducao" :"ou"
+          },
+      
+          "had" : {
+              "Traducao" :"tinha"
+          },
+      
+          "by" : {
+              "Traducao" :"por, em"
+          },
+      
+          "hot" : {
+              "Traducao" :"quente"
+          },
+      
+          "word" : {
+              "Traducao" :"palavra"
+          },
+      
+          "but" : {
+              "Traducao" :"mas"
+          },
+      
+          "what" : {
+              "Traducao" :"o-que"
+          },
+      
+          "some" : {
+              "Traducao" :"algum"
+          },
+      
+          "we" : {
+              "Traducao" :"nós"
+          },
+      
+          "can" : {
+              "Traducao" :"pode, lata"
+          },
+      
+          "out" : {
+              "Traducao" :"fora"
+          },
+      
+          "other" : {
+              "Traducao" :"outro"
+          },
+      
+          "were" : {
+              "Traducao" :"eram, esavam"
+          },
+      
+          "all" : {
+              "Traducao" :"todo"
+          },
+      
+          "there" : {
+              "Traducao" :"lá"
+          },
+      
+          "when" : {
+              "Traducao" :"quando"
+          },
+      
+          "up" : {
+              "Traducao" :"para-cima"
+          },
+      
+          "use" : {
+              "Traducao" :"usar"
+          },
+      
+          "your" : {
+              "Traducao" :"seu"
+          },
+      
+          "how" : {
+              "Traducao" :"como, quão"
+          },
+      
+          "said" : {
+              "Traducao" :"disse"
+          },
+      
+          "an" : {
+              "Traducao" :"um, uma"
+          },
+      
+          "each" : {
+              "Traducao" :"cada"
+          },
+      
+          "she" : {
+              "Traducao" :"ela"
+          },
+      
+          "which" : {
+              "Traducao" :"qual"
+          },
+      
+          "do" : {
+              "Traducao" :"fazer, mesmo"
+          },
+      
+          "their" : {
+              "Traducao" :"seus"
+          },
+      
+          "time" : {
+              "Traducao" :"tempo, hora"
+          },
+      
+          "if" : {
+              "Traducao" :"se"
+          },
+      
+          "will" : {
+              "Traducao" :"vai, vontade"
+          },
+      
+          "way" : {
+              "Traducao" :"caminho, jeito"
+          },
+      
+          "about" : {
+              "Traducao" :"sobre, quase"
+          },
+      
+          "many" : {
+              "Traducao" :"muitos"
+          },
+      
+          "then" : {
+              "Traducao" :"então"
+          },
+      
+          "them" : {
+              "Traducao" :"deles"
+          },
+      
+          "write" : {
+              "Traducao" :"escrever"
+          },
+      
+          "would" : {
+              "Traducao" :"deveria"
+          },
+      
+          "like" : {
+              "Traducao" :"como, gostar"
+          },
+      
+          "so" : {
+              "Traducao" :"assim, tão"
+          },
+      
+          "these" : {
+              "Traducao" :"estes"
+          },
+      
+          "her" : {
+              "Traducao" :"dela"
+          },
+      
+          "long" : {
+              "Traducao" :"longo"
+          },
+      
+          "make" : {
+              "Traducao" :"fazer"
+          },
+      
+          "thing" : {
+              "Traducao" :"coisa"
+          },
+      
+          "see" : {
+              "Traducao" :"ver"
+          },
+      
+          "him" : {
+              "Traducao" :"dele"
+          }
+      ,
+      
+          "two" : {
+              "Traducao" :"dois, duas"
+          },
+      
+          "has" : {
+              "Traducao" :"tem"
+          },
+      
+          "look" : {
+              "Traducao" :"olhar"
+          },
+      
+          "more" : {
+              "Traducao" :"mais"
+          },
+      
+          "day" : {
+              "Traducao" :"dia"
+          },
+      
+          "could" : {
+              "Traducao" :"poderia"
+          },
+      
+          "go" : {
+              "Traducao" :"ir"
+          },
+      
+          "come" : {
+              "Traducao" :"vir"
+          },
+      
+          "did" : {
+              "Traducao" :"fez, mesmo"
+          },
+      
+          "number" : {
+              "Traducao" :"número"
+          },
+      
+          "sound" : {
+              "Traducao" :"som"
+          },
+      
+          "no" : {
+              "Traducao" :"não"
+          },
+      
+          "most" : {
+              "Traducao" :"mais, maior"
+          },
+      
+          "people" : {
+              "Traducao" :"pessoas, povo"
+          },
+      
+          "my" : {
+              "Traducao" :"meu"
+          },
+      
+          "over" : {
+              "Traducao" :"sobre, acima-de"
+          },
+      
+          "know" : {
+              "Traducao" :"saber"
+          },
+      
+          "water" : {
+              "Traducao" :"água"
+          },
+      
+          "than" : {
+              "Traducao" :"que"
+          },
+      
+          "call" : {
+              "Traducao" :"chamar"
+          },
+      
+          "first" : {
+              "Traducao" :"primeiro"
+          },
+      
+          "who" : {
+              "Traducao" :"que"
+          },
+      
+          "may" : {
+              "Traducao" :"maio, pode"
+          },
+      
+          "down" : {
+              "Traducao" :"baixo"
+          },
+      
+          "side" : {
+              "Traducao" :"lado"
+          },
+      
+          "been" : {
+              "Traducao" :"sido, estado"
+          },
+      
+          "now" : {
+              "Traducao" :"agora"
+          },
+      
+          "find" : {
+              "Traducao" :"encontrar"
+          },
+      
+          "any" : {
+              "Traducao" :"qualquer"
+          },
+      
+          "new" : {
+              "Traducao" :"novo"
+          },
+      
+          "work" : {
+              "Traducao" :"trabalho"
+          },
+      
+          "part" : {
+              "Traducao" :"parte"
+          },
+      
+          "take" : {
+              "Traducao" :"pegar"
+          },
+      
+          "get" : {
+              "Traducao" :"ficar"
+          },
+      
+          "place" : {
+              "Traducao" :"lugar"
+          },
+      
+          "made" : {
+              "Traducao" :"feito"
+          },
+      
+          "live"  : {
+              "Traducao" : "viver, vivo"
+          },
+      
+          "where" : {
+              "Traducao" :"onde"
+          },
+      
+          "after" : {
+              "Traducao" :"após"
+          },
+      
+          "back" : {
+              "Traducao" :"atrás, costas"
+          },
+      
+          "little" : {
+              "Traducao" :"pequeno, pouco"
+          },
+      
+          "only" : {
+              "Traducao" :"somente"
+          },
+      
+          "round" : {
+              "Traducao" :"redondo, rodada"
+          },
+      
+          "man" : {
+              "Traducao" :"homem"
+          },
+      
+          "year" : {
+              "Traducao" :"ano"
+          },
+      
+          "came" : {
+              "Traducao" :"chegado"
+          },
+      
+          "show" : {
+              "Traducao" :"mostrar"
+          },
+      
+          "every" : {
+              "Traducao" :"cada"
+          },
+      
+          "good" : {
+              "Traducao" :"bom"
+          },
+      
+          "me" : {
+              "Traducao" :"me, eu"
+          },
+      
+          "give" : {
+              "Traducao" :"dar"
+          },
+      
+          "our" : {
+              "Traducao" :"nosso"
+          },
+      
+          "under" : {
+              "Traducao" :"sob"
+          },
+      
+          "name" : {
+              "Traducao" :"nome"
+          },
+      
+          "very" : {
+              "Traducao" :"muito, absoluto"
+          },
+      
+          "through" : {
+              "Traducao" :"através-de"
+          },
+      
+          "just" : {
+              "Traducao" :"justo, só"
+          },
+      
+          "form" : {
+              "Traducao" :"forma, formulário"
+          },
+      
+          "sentence" : {
+              "Traducao" :"sentença"
+          },
+      
+          "great" : {
+              "Traducao" :"ótimo, excelente, grande"
+          },
+      
+          "think" : {
+              "Traducao" :"pensar"
+          },
+      
+          "say" : {
+              "Traducao" :"dizer"
+          },
+      
+          "help" : {
+              "Traducao" :"ajudar"
+          },
+      
+          "low" : {
+              "Traducao" :"baixo"
+          },
+      
+          "line" : {
+              "Traducao" :"linha, fila"
+          },
+      
+          "differ" : {
+              "Traducao" :"diferir"
+          },
+      
+          "turn" : {
+              "Traducao" :"tornar, vez"
+          },
+      
+          "cause" : {
+              "Traducao" :"causa"
+          },
+      
+          "much" : {
+              "Traducao" :"muito"
+          },
+      
+          "mean" : {
+              "Traducao" :"meio, significar"
+          },
+      
+          "before" : {
+              "Traducao" :"antes"
+          },
+      
+          "move" : {
+              "Traducao" :"movimento"
+          },
+      
+          "right" : {
+              "Traducao" :"direito"
+          },
+      
+          "boy" : {
+              "Traducao" :"garoto"
+          },
+      
+          "old" : {
+              "Traducao" :"velho"
+          },
+      
+          "too" : {
+              "Traducao" :"também"
+          },
+      
+          "same" : {
+              "Traducao" :"mesmo"
+          },
+      
+          "tell" : {
+              "Traducao" :"contar"
+          },
+      
+          "does" : {
+              "Traducao" :"faz, mesmo"
+          },
+      
+          "set" : {
+              "Traducao" :"conjunto, fixar"
+          },
+      
+          "three" : {
+              "Traducao" :"três"
+          },
+      
+          "want" : {
+              "Traducao" :"querer"
+          },
+      
+          "air" : {
+              "Traducao" :"ar"
+          },
+      
+          "well" : {
+              "Traducao" :"bem, poço"
+          },
+      
+          "also" : {
+              "Traducao" :"também"
+          },
+      
+          "play" : {
+              "Traducao" :"peça, tocar"
+          },
+      
+          "small" : {
+              "Traducao" :"pequeno"
+          },
+      
+          "end" : {
+              "Traducao" :"fim, finalizar"
+          },
+      
+          "put" : {
+              "Traducao" :"por"
+          },
+      
+          "home" : {
+              "Traducao" :"casa"
+          },
+      
+          "read" : {
+              "Traducao" :"ler, lido"
+          },
+      
+          "hand" : {
+              "Traducao" :"mão"
+          },
+      
+          "port" : {
+              "Traducao" :"porto"
+          },
+      
+          "large" : {
+              "Traducao" :"grande"
+          },
+      
+          "spell" : {
+              "Traducao" :"soletrar, encanto"
+          },
+      
+          "add" : {
+              "Traducao" :"adicionar"
+          },
+      
+          "even" : {
+              "Traducao" :"mesmo"
+          },
+      
+          "land" : {
+              "Traducao" :"terra"
+          },
+      
+          "here" : {
+              "Traducao" :"aqui"
+          },
+      
+          "must" : {
+              "Traducao" :"dever"
+          },
+      
+          "big" : {
+              "Traducao" :"grande"
+          },
+      
+          "high" : {
+              "Traducao" :"alto"
+          },
+      
+          "such" : {
+              "Traducao" :"tal"
+          },
+      
+          "follow" : {
+              "Traducao" :"seguir"
+          },
+      
+          "act" : {
+              "Traducao" :"ato, agir"
+          },
+      
+          "why" : {
+              "Traducao" :"por-que"
+          },
+      
+          "ask" : {
+              "Traducao" :"pedir, perguntar"
+          },
+      
+          "men" : {
+              "Traducao" :"homens"
+          },
+      
+          "change" : {
+              "Traducao" :"mudar"
+          },
+      
+          "went" : {
+              "Traducao" :"foi"
+          },
+      
+          "light" : {
+              "Traducao" :"leve, luz"
+          },
+      
+          "kind" : {
+              "Traducao" :"bom, tipo"
+          },
+      
+          "off" : {
+              "Traducao" :"por, desligado"
+          },
+      
+          "need" : {
+              "Traducao" :"precisar"
+          },
+      
+          "house" : {
+              "Traducao" :"casa"
+          },
+      
+          "picture" : {
+              "Traducao" :"foto, filme"
+          },
+      
+          "try" : {
+              "Traducao" :"tentar"
+          },
+      
+          "us" : {
+              "Traducao" :"nos"
+          },
+      
+          "again" : {
+              "Traducao" :"de-novo"
+          },
+      
+          "animal" : {
+              "Traducao" :"animal"
+          },
+      
+          "point" : {
+              "Traducao" :"ponto"
+          },
+      
+          "mother" : {
+              "Traducao" :"mãe"
+          },
+      
+          "world" : {
+              "Traducao" :"mundo"
+          },
+      
+          "near" : {
+              "Traducao" :"perto"
+          },
+      
+          "build" : {
+              "Traducao" :"construir"
+          },
+      
+          "self" : {
+              "Traducao" :"próprio, ego"
+          },
+      
+          "earth" : {
+              "Traducao" :"terra"
+          },
+      
+          "father" : {
+              "Traducao" :"pai"
+          },
+      
+          "head" : {
+              "Traducao" :"cabeça"
+          },
+      
+          "stand" : {
+              "Traducao" :"permanecer, de-pé, banca"
+          },
+      
+          "own" : {
+              "Traducao" :"próprio"
+          },
+      
+          "page" : {
+              "Traducao" :"página"
+          },
+      
+          "should" : {
+              "Traducao" :"deveria"
+          },
+      
+          "country" : {
+              "Traducao" :"país"
+          },
+      
+          "found" : {
+              "Traducao" :"encontrado, fundar"
+          },
+      
+          "answer" : {
+              "Traducao" :"resposta"
+          },
+      
+          "school" : {
+              "Traducao" :"escola"
+          },
+      
+          "grow" : {
+              "Traducao" :"crescer"
+          },
+      
+          "study" : {
+              "Traducao" :"estudo"
+          },
+      
+          "still" : {
+              "Traducao" :"até, calmo"
+          },
+      
+          "learn" : {
+              "Traducao" :"aprender"
+          },
+      
+          "plant" : {
+              "Traducao" :"planta, fábrica"
+          },
+      
+          "cover" : {
+              "Traducao" :"cobrir"
+          },
+      
+          "food" : {
+              "Traducao" :"comida"
+          },
+      
+          "sun" : {
+              "Traducao" :"sol"
+          },
+      
+          "four" : {
+              "Traducao" :"quatro"
+          },
+      
+          "between" : {
+              "Traducao" :"entre"
+          },
+      
+          "state" : {
+              "Traducao" :"estado"
+          },
+      
+          "keep" : {
+              "Traducao" :"guardar"
+          },
+      
+          "eye" : {
+              "Traducao" :"olho"
+          },
+      
+          "never" : {
+              "Traducao" :"nunca"
+          },
+      
+          "last" : {
+              "Traducao" :"último, durar"
+          },
+      
+          "let" : {
+              "Traducao" :"deixar"
+          },
+      
+          "thought" : {
+              "Traducao" :"pensamento, pensado"
+          },
+      
+          "city" : {
+              "Traducao" :"cidade"
+          },
+      
+          "tree" : {
+              "Traducao" :"árvore"
+          },
+      
+          "cross" : {
+              "Traducao" :"cruz, cruzar"
+          },
+      
+          "farm" : {
+              "Traducao" :"fazenda"
+          },
+      
+          "hard" : {
+              "Traducao" :"duro"
+          },
+      
+          "start" : {
+              "Traducao" :"começar"
+          },
+      
+          "might" : {
+              "Traducao" :"poder, poderia"
+          },
+      
+          "story" : {
+              "Traducao" :"estória, andar(prédio)"
+          },
+      
+          "saw" : {
+              "Traducao" :"viu, serra"
+          },
+      
+          "far" : {
+              "Traducao" :"longe"
+          },
+      
+          "sea" : {
+              "Traducao" :"mar"
+          },
+      
+          "draw" : {
+              "Traducao" :"arrastar, empate"
+          },
+      
+          "left" : {
+              "Traducao" :"esquerda, deixado"
+          },
+      
+          "late" : {
+              "Traducao" :"tarde"
+          },
+      
+          "run" : {
+              "Traducao" :"correr"
+          },
+      
+          "don’t" : {
+              "Traducao" :"não"
+          },
+      
+          "while" : {
+              "Traducao" :"enquanto"
+          },
+      
+          "press" : {
+              "Traducao" :"pressão, imprensa"
+          },
+      
+          "close" : {
+              "Traducao" :"fechar"
+          },
+      
+          "night" : {
+              "Traducao" :"noite"
+          },
+      
+          "real" : {
+              "Traducao" :"real"
+          },
+      
+          "life" : {
+              "Traducao" :"vida"
+          },
+      
+          "few" : {
+              "Traducao" :"alguns"
+          },
+      
+          "north" : {
+              "Traducao" :"norte"
+          },
+      
+          "open" : {
+              "Traducao" :"aberto"
+          },
+      
+          "seem" : {
+              "Traducao" :"parecer"
+          },
+      
+          "together" : {
+              "Traducao" :"juntos"
+          },
+      
+          "next" : {
+              "Traducao" :"próximo"
+          },
+      
+          "white" : {
+              "Traducao" :"branco"
+          },
+      
+          "children" : {
+              "Traducao" :"crianças"
+          },
+      
+          "begin" : {
+              "Traducao" :"começar"
+          },
+      
+          "got" : {
+              "Traducao" :"ficado"
+          },
+      
+          "walk" : {
+              "Traducao" :"andar"
+          },
+      
+          "example" : {
+              "Traducao" :"exemplo"
+          },
+      
+          "ease" : {
+              "Traducao" :"facilitar"
+          },
+      
+          "paper" : {
+              "Traducao" :"papel"
+          },
+      
+          "group" : {
+              "Traducao" :"grupo"
+          },
+      
+          "always" : {
+              "Traducao" :"sempre"
+          },
+      
+          "music" : {
+              "Traducao" :"música"
+          },
+      
+          "those" : {
+              "Traducao" :"aqueles"
+          },
+      
+          "both" : {
+              "Traducao" :"ambos"
+          },
+      
+          "mark" : {
+              "Traducao" :"marcar"
+          },
+      
+          "often" : {
+              "Traducao" :"muitas-vezes"
+          },
+      
+          "letter" : {
+              "Traducao" :"letra, carta"
+          },
+      
+          "until" : {
+              "Traducao" :"até"
+          },
+      
+          "mile" : {
+              "Traducao" :"milha"
+          },
+      
+          "river" : {
+              "Traducao" :"rio"
+          },
+      
+          "car" : {
+              "Traducao" :"carro"
+          },
+      
+          "feet" : {
+              "Traducao" :"pés"
+          },
+      
+          "care" : {
+              "Traducao" :"cuidado"
+          },
+      
+          "second" : {
+              "Traducao" :"segundo"
+          },
+      
+          "book" : {
+              "Traducao" :"livro"
+          },
+      
+          "carry" : {
+              "Traducao" :"carregar"
+          },
+      
+          "took" : {
+              "Traducao" :"pego"
+          },
+      
+          "science" : {
+              "Traducao" :"ciência"
+          },
+      
+          "eat" : {
+              "Traducao" :"comer"
+          },
+      
+          "room" : {
+              "Traducao" :"cômodo, quarto"
+          },
+      
+          "friend" : {
+              "Traducao" :"amigo"
+          },
+      
+          "sight" : {
+              "Traducao" :"visão"
+          },
+      
+          "began" : {
+              "Traducao" :"começado"
+          },
+      
+          "idea" : {
+              "Traducao" :"idéia"
+          },
+      
+          "fish" : {
+              "Traducao" :"peixe, pescar"
+          },
+      
+          "mountain" : {
+              "Traducao" :"montanha"
+          },
+      
+          "stop" : {
+              "Traducao" :"parar"
+          },
+      
+          "once" : {
+              "Traducao" :"uma-vez"
+          },
+      
+          "base" : {
+              "Traducao" :"base"
+          },
+      
+          "hear" : {
+              "Traducao" :"ouvir"
+          },
+      
+          "horse" : {
+              "Traducao" :"cavalo"
+          },
+      
+          "cut" : {
+              "Traducao" :"cortar"
+          },
+      
+          "sure" : {
+              "Traducao" :"certo"
+          },
+      
+          "watch" : {
+              "Traducao" :"assistir, relógio"
+          },
+      
+          "color" : {
+              "Traducao" :"cor, colorir"
+          },
+      
+          "face" : {
+              "Traducao" :"rosto"
+          },
+      
+          "wood" : {
+              "Traducao" :"madeira"
+          },
+      
+          "main" : {
+              "Traducao" :"principal"
+          },
+      
+          "enough" : {
+              "Traducao" :"bastante"
+          },
+      
+          "plain" : {
+              "Traducao" :"plano, simples"
+          },
+      
+          "girl" : {
+              "Traducao" :"garota"
+          },
+      
+          "usual" : {
+              "Traducao" :"usual, comum"
+          },
+      
+          "young" : {
+              "Traducao" :"jovem"
+          },
+      
+          "ready" : {
+              "Traducao" :"pronto"
+          },
+      
+          "above" : {
+              "Traducao" :"acima"
+          },
+      
+          "ever" : {
+              "Traducao" :"sempre, já"
+          },
+      
+          "red" : {
+              "Traducao" :"vermelho"
+          },
+      
+          "list" : {
+              "Traducao" :"lista"
+          },
+      
+          "though" : {
+              "Traducao" :"apesar-de"
+          },
+      
+          "feel" : {
+              "Traducao" :"sentir, sentimendo"
+          },
+      
+          "talk" : {
+              "Traducao" :"conversar"
+          },
+      
+          "bird" : {
+              "Traducao" :"pássaro"
+          },
+      
+          "soon" : {
+              "Traducao" :"logo"
+          },
+      
+          "body" : {
+              "Traducao" :"corpo"
+          },
+      
+          "dog" : {
+              "Traducao" :"cachorro"
+          },
+      
+          "family" : {
+              "Traducao" :"família"
+          },
+      
+          "direct" : {
+              "Traducao" :"direto"
+          },
+      
+          "pose" : {
+              "Traducao" :"posição"
+          },
+      
+          "leave" : {
+              "Traducao" :"deixar"
+          },
+      
+          "song" : {
+              "Traducao" :"canção"
+          },
+      
+          "measure" : {
+              "Traducao" :"medida"
+          },
+      
+          "door" : {
+              "Traducao" :"porta"
+          },
+      
+          "product" : {
+              "Traducao" :"produto"
+          },
+      
+          "black" : {
+              "Traducao" :"negro"
+          },
+      
+          "short" : {
+              "Traducao" :"curto"
+          },
+      
+          "numeral" : {
+              "Traducao" :"numeral"
+          },
+      
+          "class" : {
+              "Traducao" :"classe"
+          },
+      
+          "wind" : {
+              "Traducao" :"vento"
+          },
+      
+          "question" : {
+              "Traducao" :"questão, pergunta"
+          },
+      
+          "happen" : {
+              "Traducao" :"acontecer"
+          },
+      
+          "complete" : {
+              "Traducao" :"completo"
+          },
+      
+          "ship" : {
+              "Traducao" :"navio, embarcar"
+          },
+      
+          "area" : {
+              "Traducao" :"área"
+          },
+      
+          "half" : {
+              "Traducao" :"metade"
+          },
+      
+          "rock" : {
+              "Traducao" :"roque, rocha"
+          },
+      
+          "order" : {
+              "Traducao" :"ordem, pedido"
+          },
+      
+          "fire" : {
+              "Traducao" :"fogo, incêndio, despedir"
+          },
+      
+          "south" : {
+              "Traducao" :"sul"
+          },
+      
+          "problem" : {
+              "Traducao" :"problema"
+          },
+      
+          "piece" : {
+              "Traducao" :"peça, pedaço"
+          },
+      
+          "told" : {
+              "Traducao" :"contado"
+          },
+      
+          "knew" : {
+              "Traducao" :"sabido"
+          },
+      
+          "pass" : {
+              "Traducao" :"passar"
+          },
+      
+          "since" : {
+              "Traducao" :"desde"
+          },
+      
+          "top" : {
+              "Traducao" :"topo, principal"
+          },
+      
+          "whole" : {
+              "Traducao" :"inteiro"
+          },
+      
+          "king" : {
+              "Traducao" :"rei"
+          },
+      
+          "space" : {
+              "Traducao" :"espaço"
+          },
+      
+          "heard" : {
+              "Traducao" :"ouvido"
+          },
+      
+          "best" : {
+              "Traducao" :"melhor"
+          },
+      
+          "hour" : {
+              "Traducao" :"hora"
+          },
+      
+          "better" : {
+              "Traducao" :"melhor"
+          },
+      
+          "true" : {
+              "Traducao" :"verdadeiro"
+          },
+      
+          "during" : {
+              "Traducao" :"durante"
+          },
+      
+          "hundred" : {
+              "Traducao" :"cem"
+          },
+      
+          "five" : {
+              "Traducao" :"cinco"
+          },
+      
+          "remember" : {
+              "Traducao" :"lembrar"
+          },
+      
+          "step" : {
+              "Traducao" :"passo"
+          },
+      
+          "early" : {
+              "Traducao" :"cedo"
+          },
+      
+          "hold" : {
+              "Traducao" :"guardar"
+          },
+      
+          "west" : {
+              "Traducao" :"oeste"
+          },
+      
+          "ground" : {
+              "Traducao" :"terra, amolado"
+          },
+      
+          "interest" : {
+              "Traducao" :"interesse, juros"
+          },
+      
+          "reach" : {
+              "Traducao" :"alcançar"
+          },
+      
+          "fast" : {
+              "Traducao" :"rápido"
+          },
+      
+          "verb" : {
+              "Traducao" :"verbo"
+          },
+      
+          "sing" : {
+              "Traducao" :"cantar"
+          },
+      
+          "listen" : {
+              "Traducao" :"ouvir"
+          },
+      
+          "six" : {
+              "Traducao" :"seis"
+          },
+      
+          "table" : {
+              "Traducao" :"mesa, tabela"
+          },
+      
+          "travel" : {
+              "Traducao" :"viajar"
+          },
+      
+          "less" : {
+              "Traducao" :"menos"
+          },
+      
+          "morning" : {
+              "Traducao" :"manhã"
+          },
+      
+          "ten" : {
+              "Traducao" :"dez"
+          },
+      
+          "simple" : {
+              "Traducao" :"simples"
+          },
+      
+          "several" : {
+              "Traducao" :"vários"
+          },
+      
+          "vowel" : {
+              "Traducao" :"vogal"
+          },
+      
+          "toward" : {
+              "Traducao" :"para"
+          },
+      
+          "war" : {
+              "Traducao" :"guerra"
+          },
+      
+          "lay" : {
+              "Traducao" :"deitar, amador"
+          },
+      
+          "against" : {
+              "Traducao" :"contra"
+          },
+      
+          "pattern" : {
+              "Traducao" :"padrão"
+          },
+      
+          "slow" : {
+              "Traducao" :"devagar"
+          },
+      
+          "center" : {
+              "Traducao" :"centro"
+          },
+      
+          "love" : {
+              "Traducao" :"amor, amar"
+          },
+      
+          "person" : {
+              "Traducao" :"pessoa"
+          },
+      
+          "money" : {
+              "Traducao" :"dinheiro"
+          },
+      
+          "serve" : {
+              "Traducao" :"servir"
+          },
+      
+          "appear" : {
+              "Traducao" :"aparecer"
+          },
+      
+          "road" : {
+              "Traducao" :"estrada"
+          },
+      
+          "map" : {
+              "Traducao" :"mapa"
+          },
+      
+          "rain" : {
+              "Traducao" :"chuva"
+          },
+      
+          "rule" : {
+              "Traducao" :"régua, regra"
+          },
+      
+          "govern" : {
+              "Traducao" :"governar"
+          },
+      
+          "pull" : {
+              "Traducao" :"puxar"
+          },
+      
+          "cold" : {
+              "Traducao" :"frio"
+          },
+      
+          "notice" : {
+              "Traducao" :"aviso"
+          },
+      
+          "voice" : {
+              "Traducao" :"voz"
+          },
+      
+          "unit" : {
+              "Traducao" :"unidade"
+          },
+      
+          "power" : {
+              "Traducao" :"poder, força"
+          },
+      
+          "town" : {
+              "Traducao" :"municipal"
+          },
+      
+          "fine" : {
+              "Traducao" :"bom, excelente"
+          },
+      
+          "certain" : {
+              "Traducao" :"certo"
+          },
+      
+          "fly" : {
+              "Traducao" :"voar, mosca"
+          },
+      
+          "fall" : {
+              "Traducao" :"cair, queda, outono"
+          },
+      
+          "lead" : {
+              "Traducao" :"levar, chumbo"
+          },
+      
+          "cry" : {
+              "Traducao" :"choro, chorar"
+          },
+      
+          "dark" : {
+              "Traducao" :"escuro"
+          },
+      
+          "machine" : {
+              "Traducao" :"máquina"
+          },
+      
+          "note" : {
+              "Traducao" :"anotar"
+          },
+      
+          "wait" : {
+              "Traducao" :"esperar"
+          },
+      
+          "plan" : {
+              "Traducao" :"plano"
+          },
+      
+          "figure" : {
+              "Traducao" :"figura, imaginar"
+          },
+      
+          "star" : {
+              "Traducao" :"estrela"
+          },
+      
+          "box" : {
+              "Traducao" :"caixa"
+          },
+      
+          "noun" : {
+              "Traducao" :"substantivo"
+          },
+      
+          "field" : {
+              "Traducao" :"campo"
+          },
+      
+          "rest" : {
+              "Traducao" :"resto, descanso"
+          },
+      
+          "correct" : {
+              "Traducao" :"correto"
+          },
+      
+          "able" : {
+              "Traducao" :"capaz"
+          },
+      
+          "pound" : {
+              "Traducao" :"libra"
+          },
+      
+          "done" : {
+              "Traducao" :"feito"
+          },
+      
+          "beauty" : {
+              "Traducao" :"beleza"
+          },
+      
+          "drive" : {
+              "Traducao" :"direção, dirigir"
+          },
+      
+          "stood" : {
+              "Traducao" :"permanecido"
+          },
+      
+          "contain" : {
+              "Traducao" :"conter"
+          },
+      
+          "front" : {
+              "Traducao" :"frente"
+          },
+      
+          "teach" : {
+              "Traducao" :"ensinar"
+          },
+      
+          "week" : {
+              "Traducao" :"semana"
+          },
+      
+          "final" : {
+              "Traducao" :"final"
+          },
+      
+          "gave" : {
+              "Traducao" :"dado"
+          },
+      
+          "green" : {
+              "Traducao" :"verde"
+          },
+      
+          "oh" : {
+              "Traducao" :"ó"
+          },
+      
+          "quick" : {
+              "Traducao" :"rápido"
+          },
+      
+          "develop" : {
+              "Traducao" :"desenvolver"
+          },
+      
+          "ocean" : {
+              "Traducao" :"oceano"
+          },
+      
+          "warm" : {
+              "Traducao" :"quente"
+          },
+      
+          "free" : {
+              "Traducao" :"livre, grátis"
+          },
+      
+          "minute" : {
+              "Traducao" :"minuto"
+          },
+      
+          "strong" : {
+              "Traducao" :"forte"
+          },
+      
+          "special" : {
+              "Traducao" :"especial"
+          },
+      
+          "mind" : {
+              "Traducao" :"mente, importar-se"
+          },
+      
+          "behind" : {
+              "Traducao" :"atrás"
+          },
+      
+          "clear" : {
+              "Traducao" :"claro"
+          },
+      
+          "tail" : {
+              "Traducao" :"rabo"
+          },
+      
+          "produce" : {
+              "Traducao" :"produção"
+          },
+      
+          "fact" : {
+              "Traducao" :"fato"
+          },
+      
+          "street" : {
+              "Traducao" :"rua"
+          },
+      
+          "inch" : {
+              "Traducao" :"polegada"
+          },
+      
+          "multiply" : {
+              "Traducao" :"multiplicar"
+          },
+      
+          "nothing" : {
+              "Traducao" :"nada"
+          },
+      
+          "course" : {
+              "Traducao" :"curso"
+          },
+      
+          "stay" : {
+              "Traducao" :"ficar"
+          },
+      
+          "wheel" : {
+              "Traducao" :"roda"
+          },
+      
+          "full" : {
+              "Traducao" :"cheio"
+          },
+      
+          "force" : {
+              "Traducao" :"força, forçar"
+          },
+      
+          "blue" : {
+              "Traducao" :"azul"
+          },
+      
+          "object" : {
+              "Traducao" :"objeto"
+          },
+      
+          "decide" : {
+              "Traducao" :"decidir"
+          },
+      
+          "surface" : {
+              "Traducao" :"superficie"
+          },
+      
+          "deep" : {
+              "Traducao" :"profundo"
+          },
+      
+          "moon" : {
+              "Traducao" :"lua"
+          },
+      
+          "island" : {
+              "Traducao" :"ilha"
+          },
+      
+          "foot" : {
+              "Traducao" :"pé"
+          },
+      
+          "system" : {
+              "Traducao" :"sistema"
+          },
+      
+          "busy" : {
+              "Traducao" :"ocupado"
+          },
+      
+          "test" : {
+              "Traducao" :"teste"
+          },
+      
+          "record" : {
+              "Traducao" :"recorde, gravar, registro"
+          },
+      
+          "boat" : {
+              "Traducao" :"barco"
+          },
+      
+          "common" : {
+              "Traducao" :"comum"
+          },
+      
+          "gold" : {
+              "Traducao" :"ouro"
+          },
+      
+          "possible" : {
+              "Traducao" :"possível"
+          },
+      
+          "plane" : {
+              "Traducao" :"avião"
+          },
+      
+          "stead" : {
+              "Traducao" :"local"
+          },
+      
+          "dry" : {
+              "Traducao" :"seco"
+          },
+      
+          "wonder" : {
+              "Traducao" :"admirar"
+          },
+      
+          "laugh" : {
+              "Traducao" :"rir"
+          },
+      
+          "thousand" : {
+              "Traducao" :"mil"
+          },
+      
+          "ago" : {
+              "Traducao" :"atrás"
+          },
+      
+          "ran" : {
+              "Traducao" :"corrido"
+          },
+      
+          "check" : {
+              "Traducao" :"cheque, checagem"
+          },
+      
+          "game" : {
+              "Traducao" :"jogo"
+          },
+      
+          "shape" : {
+              "Traducao" :"forma"
+          },
+      
+          "equate" : {
+              "Traducao" :"equacionar"
+          },
+      
+          "miss" : {
+              "Traducao" :"sentir, senhorita"
+          },
+      
+          "brought" : {
+              "Traducao" :"trazido"
+          },
+      
+          "heat" : {
+              "Traducao" :"calor"
+          },
+      
+          "snow" : {
+              "Traducao" :"neve"
+          },
+      
+          "tire" : {
+              "Traducao" :"pneu, cansar"
+          },
+      
+          "bring" : {
+              "Traducao" :"trazer"
+          },
+      
+          "yes" : {
+              "Traducao" :"sim"
+          },
+      
+          "distant" : {
+              "Traducao" :"distante"
+          },
+      
+          "fill" : {
+              "Traducao" :"encher"
+          },
+      
+          "east" : {
+              "Traducao" :"leste"
+          },
+      
+          "paint" : {
+              "Traducao" :"pintar"
+          },
+      
+          "language" : {
+              "Traducao" :"língua"
+          },
+      
+          "among" : {
+              "Traducao" :"entre"
+          },
+      
+          "grand" : {
+              "Traducao" :"grandioso"
+          },
+      
+          "ball" : {
+              "Traducao" :"bola"
+          },
+      
+          "yet" : {
+              "Traducao" :"ainda, já"
+          },
+      
+          "wave" : {
+              "Traducao" :"onda"
+          },
+      
+          "drop" : {
+              "Traducao" :"gota"
+          },
+      
+          "heart" : {
+              "Traducao" :"coração"
+          },
+      
+          "am" : {
+              "Traducao" :"sou, estou"
+          },
+      
+          "present" : {
+              "Traducao" :"presente"
+          },
+      
+          "heavy" : {
+              "Traducao" :"pesado"
+          },
+      
+          "dance" : {
+              "Traducao" :"dança"
+          },
+      
+          "engine" : {
+              "Traducao" :"motor"
+          },
+      
+          "position" : {
+              "Traducao" :"posição"
+          },
+      
+          "arm" : {
+              "Traducao" :"braço"
+          },
+      
+          "wide" : {
+              "Traducao" :"amplo"
+          },
+      
+          "sail" : {
+              "Traducao" :"vela(navio)"
+          },
+      
+          "material" : {
+              "Traducao" :"material"
+          },
+      
+          "size" : {
+              "Traducao" :"tamanho"
+          },
+      
+          "vary" : {
+              "Traducao" :"variar"
+          },
+      
+          "settle" : {
+              "Traducao" :"estabelecer"
+          },
+      
+          "speak" : {
+              "Traducao" :"falar"
+          },
+      
+          "weight" : {
+              "Traducao" :"peso"
+          },
+      
+          "general" : {
+              "Traducao" :"general, geral"
+          },
+      
+          "ice" : {
+              "Traducao" :"gelo"
+          },
+      
+          "matter" : {
+              "Traducao" :"matéria, importar-se"
+          },
+      
+          "circle" : {
+              "Traducao" :"círculo"
+          },
+      
+          "pair" : {
+              "Traducao" :"par"
+          },
+      
+          "include" : {
+              "Traducao" :"incluir"
+          },
+      
+          "divide" : {
+              "Traducao" :"dividir"
+          },
+      
+          "syllable" : {
+              "Traducao" :"sílaba"
+          },
+      
+          "felt" : {
+              "Traducao" :"sentido"
+          },
+      
+          "perhaps" : {
+              "Traducao" :"talvez"
+          },
+      
+          "pick" : {
+              "Traducao" :"escolher, apanhar"
+          },
+      
+          "sudden" : {
+              "Traducao" :"imprevisto"
+          },
+      
+          "count" : {
+              "Traducao" :"contar, contagem, conde"
+          },
+      
+          "square" : {
+              "Traducao" :"quadrado, praça"
+          },
+      
+          "reason" : {
+              "Traducao" :"razão"
+          },
+      
+          "length" : {
+              "Traducao" :"comprimento"
+          },
+      
+          "represent" : {
+              "Traducao" :"representar"
+          },
+      
+          "art" : {
+              "Traducao" :"arte"
+          },
+      
+          "subject" : {
+              "Traducao" :"sujeito, assunto"
+          },
+      
+          "region" : {
+              "Traducao" :"região"
+          },
+      
+          "energy" : {
+              "Traducao" :"energia"
+          },
+      
+          "hunt" : {
+              "Traducao" :"caçar"
+          },
+      
+          "probable" : {
+              "Traducao" :"provável"
+          },
+      
+          "bed" : {
+              "Traducao" :"cama"
+          },
+      
+          "brother" : {
+              "Traducao" :"irmão"
+          },
+      
+          "egg" : {
+              "Traducao" :"ovo"
+          },
+      
+          "ride" : {
+              "Traducao" :"passeio"
+          },
+      
+          "cell" : {
+              "Traducao" :"cela, célula"
+          },
+      
+          "believe" : {
+              "Traducao" :"acreditar"
+          },
+      
+          "fraction" : {
+              "Traducao" :"fração"
+          },
+      
+          "forest" : {
+              "Traducao" :"floresta"
+          },
+      
+          "sit" : {
+              "Traducao" :"sentar"
+          },
+      
+          "race" : {
+              "Traducao" :"raça, corrida"
+          },
+      
+          "window" : {
+              "Traducao" :"janela"
+          },
+      
+          "store" : {
+              "Traducao" :"armazém"
+          },
+      
+          "summer" : {
+              "Traducao" :"verão"
+          },
+      
+          "train" : {
+              "Traducao" :"trem, treinar"
+          },
+      
+          "sleep" : {
+              "Traducao" :"dormir"
+          },
+      
+          "prove" : {
+              "Traducao" :"provar"
+          },
+      
+          "lone" : {
+              "Traducao" :"só"
+          },
+      
+          "leg" : {
+              "Traducao" :"perna"
+          },
+      
+          "exercise" : {
+              "Traducao" :"exercício"
+          },
+      
+          "wall" : {
+              "Traducao" :"parede"
+          },
+      
+          "catch" : {
+              "Traducao" :"pegar"
+          },
+      
+          "mount" : {
+              "Traducao" :"monte, montar"
+          },
+      
+          "wish" : {
+              "Traducao" :"desejo"
+          },
+      
+          "sky" : {
+              "Traducao" :"céu"
+          },
+      
+          "board" : {
+              "Traducao" :"quadro"
+          },
+      
+          "joy" : {
+              "Traducao" :"alegria"
+          },
+      
+          "winter" : {
+              "Traducao" :"inverno"
+          },
+      
+          "sat" : {
+              "Traducao" :"sentado"
+          },
+      
+          "written" : {
+              "Traducao" :"escrito"
+          },
+      
+          "wild" : {
+              "Traducao" :"selvagem"
+          },
+      
+          "instrument" : {
+              "Traducao" :"instrumento"
+          },
+      
+          "kept" : {
+              "Traducao" :"guardado"
+          },
+      
+          "glass" : {
+              "Traducao" :"vidro"
+          },
+      
+          "grass" : {
+              "Traducao" :"grama"
+          },
+      
+          "cow" : {
+              "Traducao" :"vaca"
+          },
+      
+          "job" : {
+              "Traducao" :"trabalho, jó"
+          },
+      
+          "edge" : {
+              "Traducao" :"canto"
+          },
+      
+          "sign" : {
+              "Traducao" :"sinal"
+          },
+      
+          "visit" : {
+              "Traducao" :"visita"
+          },
+      
+          "past" : {
+              "Traducao" :"passado"
+          },
+      
+          "soft" : {
+              "Traducao" :"macio"
+          },
+      
+          "fun" : {
+              "Traducao" :"alegria"
+          },
+      
+          "bright" : {
+              "Traducao" :"claro"
+          },
+      
+          "gas" : {
+              "Traducao" :"gás, gasolina"
+          },
+      
+          "weather" : {
+              "Traducao" :"tempo"
+          },
+      
+          "month" : {
+              "Traducao" :"mês"
+          },
+      
+          "million" : {
+              "Traducao" :"milhão"
+          },
+      
+          "bear" : {
+              "Traducao" :"urso, carregar"
+          },
+      
+          "finish" : {
+              "Traducao" :"fim, finalizar"
+          },
+      
+          "happy" : {
+              "Traducao" :"feliz"
+          },
+      
+          "hope" : {
+              "Traducao" :"esperança"
+          },
+      
+          "flower" : {
+              "Traducao" :"flor"
+          },
+      
+          "clothe" : {
+              "Traducao" :"vestir"
+          },
+      
+          "strange" : {
+              "Traducao" :"estranho"
+          },
+      
+          "gone" : {
+              "Traducao" :"ido"
+          },
+      
+          "jump" : {
+              "Traducao" :"pular"
+          },
+      
+          "baby" : {
+              "Traducao" :"bebê"
+          },
+      
+          "eight" : {
+              "Traducao" :"oito"
+          },
+      
+          "village" : {
+              "Traducao" :"vila"
+          },
+      
+          "meet" : {
+              "Traducao" :"encontrar"
+          },
+      
+          "root" : {
+              "Traducao" :"raiz"
+          },
+      
+          "buy" : {
+              "Traducao" :"comprar"
+          },
+      
+          "raise" : {
+              "Traducao" :"levantar"
+          },
+      
+          "solve" : {
+              "Traducao" :"resolver"
+          },
+      
+          "metal" : {
+              "Traducao" :"metal"
+          },
+      
+          "whether" : {
+              "Traducao" :"se"
+          },
+      
+          "push" : {
+              "Traducao" :"empurrar, iniciativa"
+          },
+      
+          "seven" : {
+              "Traducao" :"sete"
+          },
+      
+          "paragraph" : {
+              "Traducao" :"parágrafo"
+          },
+      
+          "third" : {
+              "Traducao" :"terceiro"
+          },
+      
+          "shall" : {
+              "Traducao" :"vai"
+          },
+      
+          "held" : {
+              "Traducao" :"guardado"
+          },
+      
+          "hair" : {
+              "Traducao" :"cabelo"
+          },
+      
+          "describe" : {
+              "Traducao" :"descrever"
+          },
+      
+          "cook" : {
+              "Traducao" :"cozinhar"
+          },
+      
+          "floor" : {
+              "Traducao" :"chão, derrotar"
+          },
+      
+          "either" : {
+              "Traducao" :"um, ou outro, também"
+          },
+      
+          "result" : {
+              "Traducao" :"resultado"
+          },
+      
+          "burn" : {
+              "Traducao" :"queimar"
+          },
+      
+          "hill" : {
+              "Traducao" :"colina"
+          },
+      
+          "safe" : {
+              "Traducao" :"seguro, cofre"
+          },
+      
+          "cat" : {
+              "Traducao" :"gato"
+          },
+      
+          "century" : {
+              "Traducao" :"século"
+          },
+      
+          "consider" : {
+              "Traducao" :"considerar"
+          },
+      
+          "type" : {
+              "Traducao" :"tipo, datilografar"
+          },
+      
+          "law" : {
+              "Traducao" :"lei"
+          },
+      
+          "bit" : {
+              "Traducao" :"pouco, broca"
+          },
+      
+          "coast" : {
+              "Traducao" :"costa, litoral"
+          },
+      
+          "copy" : {
+              "Traducao" :"copiar"
+          },
+      
+          "phrase" : {
+              "Traducao" :"frase"
+          },
+      
+          "silent" : {
+              "Traducao" :"silencio"
+          },
+      
+          "tall" : {
+              "Traducao" :"alto(pessoa)"
+          },
+      
+          "sand" : {
+              "Traducao" :"areia"
+          },
+      
+          "soil" : {
+              "Traducao" :"solo"
+          },
+      
+          "roll" : {
+              "Traducao" :"giro, lista"
+          },
+      
+          "temperature" : {
+              "Traducao" :"temperatura"
+          },
+      
+          "finger" : {
+              "Traducao" :"dedo"
+          },
+      
+          "industry" : {
+              "Traducao" :"indústria"
+          },
+      
+          "value" : {
+              "Traducao" :"valor"
+          },
+      
+          "fight" : {
+              "Traducao" :"luta"
+          },
+      
+          "lie" : {
+              "Traducao" :"deitar, mentir"
+          },
+      
+          "beat" : {
+              "Traducao" :"bater"
+          },
+      
+          "excite" : {
+              "Traducao" :"instigar"
+          },
+      
+          "natural" : {
+              "Traducao" :"natural"
+          },
+      
+          "view" : {
+              "Traducao" :"vista"
+          },
+      
+          "sense" : {
+              "Traducao" :"sentido"
+          },
+      
+          "ear" : {
+              "Traducao" :"orelha, espiga"
+          },
+      
+          "else" : {
+              "Traducao" :"outro"
+          },
+      
+          "quite" : {
+              "Traducao" :"muito"
+          },
+      
+          "broke" : {
+              "Traducao" :"quebrado"
+          },
+      
+          "case" : {
+              "Traducao" :"caso, embalagem"
+          },
+      
+          "middle" : {
+              "Traducao" :"meio"
+          },
+      
+          "kill" : {
+              "Traducao" :"matar"
+          },
+      
+          "son" : {
+              "Traducao" :"filho"
+          },
+      
+          "lake" : {
+              "Traducao" :"lago"
+          },
+      
+          "moment" : {
+              "Traducao" :"momento"
+          },
+      
+          "scale" : {
+              "Traducao" :"escada, escala, escama"
+          },
+      
+          "loud" : {
+              "Traducao" :"alto(som)"
+          },
+      
+          "spring" : {
+              "Traducao" :"primavera, mola"
+          },
+      
+          "observe" : {
+              "Traducao" :"observar"
+          },
+      
+          "child" : {
+              "Traducao" :"criança"
+          },
+      
+          "straight" : {
+              "Traducao" :"reto"
+          },
+      
+          "consonant" : {
+              "Traducao" :"consoante"
+          },
+      
+          "nation" : {
+              "Traducao" :"nação"
+          },
+      
+          "dictionary" : {
+              "Traducao" :"dicionário"
+          },
+      
+          "milk" : {
+              "Traducao" :"leite"
+          },
+      
+          "speed" : {
+              "Traducao" :"velocidade"
+          },
+      
+          "method" : {
+              "Traducao" :"método"
+          },
+      
+          "organ" : {
+              "Traducao" :"órgão"
+          },
+      
+          "pay" : {
+              "Traducao" :"pagar"
+          },
+      
+          "age" : {
+              "Traducao" :"idade"
+          },
+      
+          "section" : {
+              "Traducao" :"seção"
+          },
+      
+          "dress" : {
+              "Traducao" :"vestido"
+          },
+      
+          "cloud" : {
+              "Traducao" :"nuvem"
+          },
+      
+          "surprise" : {
+              "Traducao" :"surpresa"
+          },
+      
+          "quiet" : {
+              "Traducao" :"quieto"
+          },
+      
+          "stone" : {
+              "Traducao" :"pedra"
+          },
+      
+          "tiny" : {
+              "Traducao" :"minúsculo"
+          },
+      
+          "climb" : {
+              "Traducao" :"escalar"
+          },
+      
+          "cool" : {
+              "Traducao" :"frio"
+          },
+      
+          "design" : {
+              "Traducao" :"desenho"
+          },
+      
+          "poor" : {
+              "Traducao" :"pobre"
+          },
+      
+          "lot" : {
+              "Traducao" :"muito, lote"
+          },
+      
+          "experiment" : {
+              "Traducao" :"experimento"
+          },
+      
+          "bottom" : {
+              "Traducao" :"baixo"
+          },
+      
+          "key" : {
+              "Traducao" :"chave"
+          },
+      
+          "iron" : {
+              "Traducao" :"ferro"
+          },
+      
+          "single" : {
+              "Traducao" :"só, solteiro"
+          },
+      
+          "stick" : {
+              "Traducao" :"vareta, fincar"
+          },
+      
+          "flat" : {
+              "Traducao" :"achatado, plano"
+          },
+      
+          "twenty" : {
+              "Traducao" :"vinte"
+          },
+      
+          "skin" : {
+              "Traducao" :"pele"
+          },
+      
+          "smile" : {
+              "Traducao" :"sorriso"
+          },
+      
+          "crease" : {
+              "Traducao" :"ruga"
+          },
+      
+          "hole" : {
+              "Traducao" :"buraco"
+          },
+      
+          "trade" : {
+              "Traducao" :"comércio"
+          },
+      
+          "melody" : {
+              "Traducao" :"melodia"
+          },
+      
+          "trip" : {
+              "Traducao" :"viajar, passeio"
+          },
+      
+          "office" : {
+              "Traducao" :"escritório, função"
+          },
+      
+          "receive" : {
+              "Traducao" :"receber"
+          },
+      
+          "row" : {
+              "Traducao" :"remar, fila"
+          },
+      
+          "mouth" : {
+              "Traducao" :"boca"
+          },
+      
+          "exact" : {
+              "Traducao" :"exato"
+          },
+      
+          "symbol" : {
+              "Traducao" :"símbol"
+          },
+      
+          "die" : {
+              "Traducao" :"morrer"
+          },
+      
+          "least" : {
+              "Traducao" :"menos"
+          },
+      
+          "trouble" : {
+              "Traducao" :"preocupação"
+          },
+      
+          "shout" : {
+              "Traducao" :"gritar"
+          },
+      
+          "except" : {
+              "Traducao" :"exceto"
+          },
+      
+          "wrote" : {
+              "Traducao" :"escrito"
+          },
+      
+          "seed" : {
+              "Traducao" :"semente"
+          },
+      
+          "tone" : {
+              "Traducao" :"tom"
+          },
+      
+          "join" : {
+              "Traducao" :"juntar"
+          },
+      
+          "suggest" : {
+              "Traducao" :"sugerir"
+          },
+      
+          "clean" : {
+              "Traducao" :"limpo"
+          },
+      
+          "break" : {
+              "Traducao" :"quebrar"
+          },
+      
+          "lady" : {
+              "Traducao" :"dama"
+          },
+      
+          "yard" : {
+              "Traducao" :"jarda, quintal"
+          },
+      
+          "rise" : {
+              "Traducao" :"levantar"
+          },
+      
+          "bad" : {
+              "Traducao" :"mal"
+          },
+      
+          "blow" : {
+              "Traducao" :"assoprar"
+          },
+      
+          "oil" : {
+              "Traducao" :"óleo, petróleo"
+          },
+      
+          "blood" : {
+              "Traducao" :"sangue"
+          },
+      
+          "touch" : {
+              "Traducao" :"tocar"
+          },
+      
+          "grew" : {
+              "Traducao" :"crescido"
+          },
+      
+          "cent" : {
+              "Traducao" :"centavo"
+          },
+      
+          "mix" : {
+              "Traducao" :"mistura"
+          },
+      
+          "team" : {
+              "Traducao" :"grupo"
+          },
+      
+          "wire" : {
+              "Traducao" :"arame"
+          },
+      
+          "cost" : {
+              "Traducao" :"custo"
+          },
+      
+          "lost" : {
+              "Traducao" :"perdido"
+          },
+      
+          "brown" : {
+              "Traducao" :"marrom"
+          },
+      
+          "wear" : {
+              "Traducao" :"usar"
+          },
+      
+          "garden" : {
+              "Traducao" :"jardim"
+          },
+      
+          "equal" : {
+              "Traducao" :"igual"
+          },
+      
+          "sent" : {
+              "Traducao" :"enviado"
+          },
+      
+          "choose" : {
+              "Traducao" :"escolher"
+          },
+      
+          "fell" : {
+              "Traducao" :"caido"
+          },
+      
+          "fit" : {
+              "Traducao" :"ajustado"
+          },
+      
+          "flow" : {
+              "Traducao" :"correr, corrente"
+          },
+      
+          "fair" : {
+              "Traducao" :"feira, claro"
+          },
+      
+          "bank" : {
+              "Traducao" :"banco"
+          },
+      
+          "collect" : {
+              "Traducao" :"recolher, pagar"
+          },
+      
+          "save" : {
+              "Traducao" :"salvar"
+          },
+      
+          "control" : {
+              "Traducao" :"controle"
+          },
+      
+          "decimal" : {
+              "Traducao" :"decimal"
+          },
+      
+          "gentle" : {
+              "Traducao" :"gentil"
+          },
+      
+          "woman" : {
+              "Traducao" :"mulher"
+          },
+      
+          "captain" : {
+              "Traducao" :"capitão"
+          },
+      
+          "practice" : {
+              "Traducao" :"prática"
+          },
+      
+          "separate" : {
+              "Traducao" :"separado"
+          },
+      
+          "difficult" : {
+              "Traducao" :"difícil"
+          },
+      
+          "doctor" : {
+              "Traducao" :"doutor"
+          },
+      
+          "please" : {
+              "Traducao" :"por-favor, agradar"
+          },
+      
+          "protect" : {
+              "Traducao" :"proteger"
+          },
+      
+          "noon" : {
+              "Traducao" :"meio-dia"
+          },
+      
+          "whose" : {
+              "Traducao" :"cujo"
+          },
+      
+          "locate" : {
+              "Traducao" :"localizar"
+          },
+      
+          "ring" : {
+              "Traducao" :"anel, tocar"
+          },
+      
+          "character" : {
+              "Traducao" :"caráter, personagem"
+          },
+      
+          "insect" : {
+              "Traducao" :"inseto"
+          },
+      
+          "caught" : {
+              "Traducao" :"pego"
+          },
+      
+          "period" : {
+              "Traducao" :"período"
+          },
+      
+          "indicate" : {
+              "Traducao" :"indicar"
+          },
+      
+          "radio" : {
+              "Traducao" :"rádio"
+          },
+      
+          "spoke" : {
+              "Traducao" :"falado, raio"
+          },
+      
+          "atom" : {
+              "Traducao" :"átomo"
+          },
+      
+          "human" : {
+              "Traducao" :"humano"
+          },
+      
+          "history" : {
+              "Traducao" :"história"
+          },
+      
+          "effect" : {
+              "Traducao" :"efeito"
+          },
+      
+          "electric" : {
+              "Traducao" :"elétrico"
+          },
+      
+          "expect" : {
+              "Traducao" :"esperar"
+          },
+      
+          "crop" : {
+              "Traducao" :"colheita"
+          },
+      
+          "modern" : {
+              "Traducao" :"moderno"
+          },
+      
+          "element" : {
+              "Traducao" :"elemento"
+          },
+      
+          "hit" : {
+              "Traducao" :"acertar"
+          },
+      
+          "student" : {
+              "Traducao" :"estudante"
+          },
+      
+          "corner" : {
+              "Traducao" :"esquina"
+          },
+      
+          "party" : {
+              "Traducao" :"partido, festa"
+          },
+      
+          "supply" : {
+              "Traducao" :"suprir"
+          },
+      
+          "bone" : {
+              "Traducao" :"osso"
+          },
+      
+          "rail" : {
+              "Traducao" :"grade, trilho"
+          },
+      
+          "imagine" : {
+              "Traducao" :"imaginar"
+          },
+      
+          "provide" : {
+              "Traducao" :"fornecer"
+          },
+      
+          "agree" : {
+              "Traducao" :"concordar"
+          },
+      
+          "thus" : {
+              "Traducao" :"assim"
+          },
+      
+          "capital" : {
+              "Traducao" :"capital"
+          },
+      
+          "won’t" : {
+              "Traducao" :"não-vai"
+          },
+      
+          "chair" : {
+              "Traducao" :"cadeira"
+          },
+      
+          "danger" : {
+              "Traducao" :"perigo"
+          },
+      
+          "fruit" : {
+              "Traducao" :"fruta"
+          },
+      
+          "rich" : {
+              "Traducao" :"rico"
+          },
+      
+          "thick" : {
+              "Traducao" :"grosso"
+          },
+      
+          "soldier" : {
+              "Traducao" :"soldado"
+          },
+      
+          "process" : {
+              "Traducao" :"processo"
+          },
+      
+          "operate" : {
+              "Traducao" :"operar"
+          },
+      
+          "guess" : {
+              "Traducao" :"adivinhar"
+          },
+      
+          "necessary" : {
+              "Traducao" :"necessário"
+          },
+      
+          "sharp" : {
+              "Traducao" :"agudo, sustenido"
+          },
+      
+          "wing" : {
+              "Traducao" :"asa"
+          },
+      
+          "create" : {
+              "Traducao" :"criar"
+          },
+      
+          "neighbor" : {
+              "Traducao" :"vizinho"
+          },
+      
+          "wash" : {
+              "Traducao" :"lavar"
+          },
+      
+          "bat" : {
+              "Traducao" :"morcego, bastão"
+          },
+      
+          "rather" : {
+              "Traducao" :"de-preferência"
+          },
+      
+          "crowd" : {
+              "Traducao" :"multidão"
+          },
+      
+          "corn" : {
+              "Traducao" :"milho"
+          },
+      
+          "compare" : {
+              "Traducao" :"comparar"
+          },
+      
+          "poem" : {
+              "Traducao" :"poema"
+          },
+      
+          "string" : {
+              "Traducao" :"corda"
+          },
+      
+          "bell" : {
+              "Traducao" :"sino"
+          },
+      
+          "depend" : {
+              "Traducao" :"depender"
+          },
+      
+          "meat" : {
+              "Traducao" :"carne"
+          },
+      
+          "rub" : {
+              "Traducao" :"esfregar"
+          },
+      
+          "tube" : {
+              "Traducao" :"tubo, tv"
+          },
+      
+          "famous" : {
+              "Traducao" :"famoso"
+          },
+      
+          "stream" : {
+              "Traducao" :"corrente"
+          },
+      
+          "fear" : {
+              "Traducao" :"medo, temer"
+          },
+      
+          "thin" : {
+              "Traducao" :"fino, magro"
+          },
+      
+          "triangle" : {
+              "Traducao" :"triângulo"
+          },
+      
+          "planet" : {
+              "Traducao" :"planeta"
+          },
+      
+          "hurry" : {
+              "Traducao" :"pressa"
+          },
+      
+          "chief" : {
+              "Traducao" :"chefe"
+          },
+      
+          "clock" : {
+              "Traducao" :"relógio"
+          },
+      
+          "mine" : {
+              "Traducao" :"meu, mina"
+          },
+      
+          "tie" : {
+              "Traducao" :"amarrar"
+          },
+      
+          "enter" : {
+              "Traducao" :"entrar"
+          },
+      
+          "major" : {
+              "Traducao" :"maior, major"
+          },
+      
+          "fresh" : {
+              "Traducao" :"fresco"
+          },
+      
+          "search" : {
+              "Traducao" :"buscar"
+          },
+      
+          "send" : {
+              "Traducao" :"enviar"
+          },
+      
+          "yellow" : {
+              "Traducao" :"amarelo"
+          },
+      
+          "gun" : {
+              "Traducao" :"arma"
+          },
+      
+          "rose" : {
+              "Traducao" :"rosa, levantado"
+          },
+      
+          "allow" : {
+              "Traducao" :"permitir"
+          },
+      
+          "print" : {
+              "Traducao" :"imprimir"
+          },
+      
+          "dead" : {
+              "Traducao" :"morto"
+          },
+      
+          "spot" : {
+              "Traducao" :"ponto"
+          },
+      
+          "desert" : {
+              "Traducao" :"deserto"
+          },
+      
+          "suit" : {
+              "Traducao" :"terno"
+          },
+      
+          "current" : {
+              "Traducao" :"atual"
+          },
+      
+          "lift" : {
+              "Traducao" :"levantar"
+          },
+      
+          "continue" : {
+              "Traducao" :"continuar"
+          },
+      
+          "block" : {
+              "Traducao" :"bloco"
+          },
+      
+          "chart" : {
+              "Traducao" :"gráfico"
+          },
+      
+          "hat" : {
+              "Traducao" :"chapéu"
+          },
+      
+          "sell" : {
+              "Traducao" :"vender"
+          },
+      
+          "success" : {
+              "Traducao" :"sucesso"
+          },
+      
+          "company" : {
+              "Traducao" :"companhia, empresa"
+          },
+      
+          "subtract" : {
+              "Traducao" :"subtrair"
+          },
+      
+          "event" : {
+              "Traducao" :"evento"
+          },
+      
+          "particular" : {
+              "Traducao" :"especial"
+          },
+      
+          "deal" : {
+              "Traducao" :"negócio"
+          },
+      
+          "term" : {
+              "Traducao" :"termo, período"
+          },
+      
+          "opposite" : {
+              "Traducao" :"oposto"
+          },
+      
+          "wife" : {
+              "Traducao" :"esposa"
+          },
+      
+          "shoe" : {
+              "Traducao" :"sapato"
+          },
+      
+          "shoulder" : {
+              "Traducao" :"ombro"
+          },
+      
+          "spread" : {
+              "Traducao" :"espalhar"
+          },
+      
+          "arrange" : {
+              "Traducao" :"arranjar"
+          },
+      
+          "camp" : {
+              "Traducao" :"campo"
+          },
+      
+          "invent" : {
+              "Traducao" :"inventar"
+          },
+      
+          "cotton" : {
+              "Traducao" :"algodão"
+          },
+      
+          "born" : {
+              "Traducao" :"nascido"
+          },
+      
+          "determine" : {
+              "Traducao" :"determinar"
+          },
+      
+          "quart" : {
+              "Traducao" :"quarto(medida)"
+          },
+      
+          "nine" : {
+              "Traducao" :"nove"
+          },
+      
+          "truck" : {
+              "Traducao" :"caminhão"
+          },
+      
+          "noise" : {
+              "Traducao" :"barulho"
+          },
+      
+          "level" : {
+              "Traducao" :"nível"
+          },
+      
+          "chance" : {
+              "Traducao" :"chance, acaso"
+          },
+      
+          "gather" : {
+              "Traducao" :"juntar"
+          },
+      
+          "shop" : {
+              "Traducao" :"loja"
+          },
+      
+          "stretch" : {
+              "Traducao" :"alcance"
+          },
+      
+          "throw" : {
+              "Traducao" :"arremessar"
+          },
+      
+          "shine" : {
+              "Traducao" :"brilhar"
+          },
+      
+          "property" : {
+              "Traducao" :"propriedade"
+          },
+      
+          "column" : {
+              "Traducao" :"coluna"
+          },
+      
+          "molecule" : {
+              "Traducao" :"molécula"
+          },
+      
+          "select" : {
+              "Traducao" :"selecionar"
+          },
+      
+          "wrong" : {
+              "Traducao" :"errado"
+          },
+      
+          "gray" : {
+              "Traducao" :"cinza"
+          },
+      
+          "repeat" : {
+              "Traducao" :"repetir"
+          },
+      
+          "require" : {
+              "Traducao" :"exigir"
+          },
+      
+          "broad" : {
+              "Traducao" :"amplo"
+          },
+      
+          "prepare" : {
+              "Traducao" :"preparar"
+          },
+      
+          "salt" : {
+              "Traducao" :"sal"
+          },
+      
+          "nose" : {
+              "Traducao" :"nariz"
+          },
+      
+          "plural" : {
+              "Traducao" :"plural"
+          },
+      
+          "anger" : {
+              "Traducao" :"raiva"
+          },
+      
+          "claim" : {
+              "Traducao" :"clamar"
+          },
+      
+          "continent" : {
+              "Traducao" :"continente"
+          },
+      
+          "oxygen" : {
+              "Traducao" :"oxigênio"
+          },
+      
+          "sugar" : {
+              "Traducao" :"açúcar"
+          },
+      
+          "death" : {
+              "Traducao" :"morte"
+          },
+      
+          "pretty" : {
+              "Traducao" :"belo, muito"
+          },
+      
+          "skill" : {
+              "Traducao" :"habilidade"
+          },
+      
+          "women" : {
+              "Traducao" :"mulheres"
+          },
+      
+          "season" : {
+              "Traducao" :"estação"
+          },
+      
+          "solution" : {
+              "Traducao" :"solução"
+          },
+      
+          "magnet" : {
+              "Traducao" :"imã"
+          },
+      
+          "silver" : {
+              "Traducao" :"prata"
+          },
+      
+          "thank" : {
+              "Traducao" :"agradecer"
+          },
+      
+          "branch" : {
+              "Traducao" :"galho"
+          },
+      
+          "match" : {
+              "Traducao" :"competição, fósforo"
+          },
+      
+          "suffix" : {
+              "Traducao" :"sufixo"
+          },
+      
+          "especially" : {
+              "Traducao" :"especialmente"
+          },
+      
+          "fig" : {
+              "Traducao" :"figo"
+          },
+      
+          "afraid" : {
+              "Traducao" :"com-medo"
+          },
+      
+          "huge" : {
+              "Traducao" :"grande, enorme"
+          },
+      
+          "sister" : {
+              "Traducao" :"irmã"
+          },
+      
+          "steel" : {
+              "Traducao" :"aço"
+          },
+      
+          "discuss" : {
+              "Traducao" :"discutir"
+          },
+      
+          "dollar" : {
+              "Traducao" :"dólar"
+          },
+      
+          "forward" : {
+              "Traducao" :"adiante, passar adiante"
+          },
+      
+          "similar" : {
+              "Traducao" :"semelhante"
+          },
+      
+          "guide" : {
+              "Traducao" :"guia, guiar"
+          },
+      
+          "experience" : {
+              "Traducao" :"experiência"
+          },
+      
+          "score" : {
+              "Traducao" :"placar, duas-dezenas"
+          },
+      
+          "apple" : {
+              "Traducao" :"maçã"
+          },
+      
+          "bought" : {
+              "Traducao" :"comprado"
+          },
+      
+          "led" : {
+              "Traducao" :"levado"
+          },
+      
+          "colony" : {
+              "Traducao" :"colonia"
+          },
+      
+          "pitch" : {
+              "Traducao" :"piche, arremeço"
+          },
+      
+          "coat" : {
+              "Traducao" :"casaco"
+          },
+      
+          "mass" : {
+              "Traducao" :"massa, missa"
+          },
+      
+          "card" : {
+              "Traducao" :"cartão"
+          },
+      
+          "band" : {
+              "Traducao" :"banda"
+          },
+      
+          "rope" : {
+              "Traducao" :"corda"
+          },
+      
+          "slip" : {
+              "Traducao" :"escorregar"
+          },
+      
+          "win" : {
+              "Traducao" :"ganhar"
+          },
+      
+          "dream" : {
+              "Traducao" :"sonho"
+          },
+      
+          "evening" : {
+              "Traducao" :"noite"
+          },
+      
+          "condition" : {
+              "Traducao" :"condição"
+          },
+      
+          "feed" : {
+              "Traducao" :"alimentar"
+          },
+      
+          "tool" : {
+              "Traducao" :"ferramenta"
+          },
+      
+          "total" : {
+              "Traducao" :"total"
+          },
+      
+          "basic" : {
+              "Traducao" :"básico"
+          },
+      
+          "smell" : {
+              "Traducao" :"cheiro"
+          },
+      
+          "valley" : {
+              "Traducao" :"vale"
+          },
+      
+          "nor" : {
+              "Traducao" :"nem"
+          },
+      
+          "double" : {
+              "Traducao" :"dobro"
+          },
+      
+          "seat" : {
+              "Traducao" :"assento"
+          },
+      
+          "arrive" : {
+              "Traducao" :"chegar"
+          },
+      
+          "master" : {
+              "Traducao" :"mestre"
+          },
+      
+          "track" : {
+              "Traducao" :"trilha"
+          },
+      
+          "parent" : {
+              "Traducao" :"pais"
+          },
+      
+          "shore" : {
+              "Traducao" :"praia"
+          },
+      
+          "division" : {
+              "Traducao" :"divisão"
+          },
+      
+          "sheet" : {
+              "Traducao" :"folha, lençol"
+          },
+      
+          "substance" : {
+              "Traducao" :"substância"
+          },
+      
+          "favor" : {
+              "Traducao" :"favor, favorecer"
+          },
+      
+          "connect" : {
+              "Traducao" :"conectar"
+          },
+      
+          "post" : {
+              "Traducao" :"pós, posto"
+          },
+      
+          "spend" : {
+              "Traducao" :"gastar"
+          },
+      
+          "swim" : {
+              "Traducao" :"nadar"
+          },
+      
+          "chord" : {
+              "Traducao" :"acorde"
+          },
+      
+          "fat" : {
+              "Traducao" :"gordo"
+          },
+      
+          "glad" : {
+              "Traducao" :"contente"
+          },
+      
+          "original" : {
+              "Traducao" :"original"
+          },
+      
+          "share" : {
+              "Traducao" :"parte"
+          },
+      
+          "station" : {
+              "Traducao" :"estação"
+          },
+      
+          "dad" : {
+              "Traducao" :"papai"
+          },
+      
+          "bread" : {
+              "Traducao" :"pão"
+          },
+      
+          "charge" : {
+              "Traducao" :"carga, cobrança"
+          },
+      
+          "proper" : {
+              "Traducao" :"próprio"
+          },
+      
+          "bar" : {
+              "Traducao" :"bar, barra"
+          },
+      
+          "offer" : {
+              "Traducao" :"oferecer"
+          },
+      
+          "segment" : {
+              "Traducao" :"segmento"
+          },
+      
+          "slave" : {
+              "Traducao" :"escravo"
+          },
+      
+          "duck" : {
+              "Traducao" :"pato, mergulhar"
+          },
+      
+          "instant" : {
+              "Traducao" :"instante"
+          },
+      
+          "market" : {
+              "Traducao" :"mercado"
+          },
+      
+          "degree" : {
+              "Traducao" :"grau"
+          },
+      
+          "populate" : {
+              "Traducao" :"povoar"
+          },
+      
+          "chick" : {
+              "Traducao" :"pintinho"
+          },
+      
+          "dear" : {
+              "Traducao" :"querido"
+          },
+      
+          "enemy" : {
+              "Traducao" :"inimigo"
+          },
+      
+          "reply" : {
+              "Traducao" :"resposta"
+          },
+      
+          "drink" : {
+              "Traducao" :"bebida"
+          },
+      
+          "occur" : {
+              "Traducao" :"ocorrer"
+          },
+      
+          "support" : {
+              "Traducao" :"apoiar"
+          },
+      
+          "speech" : {
+              "Traducao" :"discurso"
+          },
+      
+          "nature" : {
+              "Traducao" :"natureza"
+          },
+      
+          "range" : {
+              "Traducao" :"alcance, pastagem"
+          },
+      
+          "steam" : {
+              "Traducao" :"vapor"
+          },
+      
+          "motion" : {
+              "Traducao" :"movimento"
+          },
+      
+          "path" : {
+              "Traducao" :"caminho"
+          },
+      
+          "liquid" : {
+              "Traducao" :"líquido"
+          },
+      
+          "log" : {
+              "Traducao" :"lenha, diário"
+          },
+      
+          "meant" : {
+              "Traducao" :"significado"
+          },
+      
+          "quotient" : {
+              "Traducao" :"quociente"
+          },
+      
+          "teeth" : {
+              "Traducao" :"dentes"
+          },
+      
+          "shell" : {
+              "Traducao" :"concha"
+          },
+      
+          "neck" : {
+              "Traducao" :"pescoço"
+          },
+      
+          "dessert" : {
+              "Traducao" :"sobremesa"
+          } 
+  }
+}

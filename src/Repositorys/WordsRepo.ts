@@ -21,13 +21,18 @@ export class WordsRepo {
   }
 
   public async create({ id, word }: ICreateWordsList): Promise<WordsLitstModel> {
-    const wordCreated = this.ormRepository.create({ id ,
+    const wordCreated =  await this.ormRepository.create({ id ,
       word
     });
 
-    await this.ormRepository.save(wordCreated);
+    await this.ormRepository.save(wordCreated)
+    .then( () => {
+      console.log("o itme foi salvo")
+      return wordCreated
+    })
+    .catch( () => console.log("erro ao salvar"))
 
-    return wordCreated;
+    
   }
 
   public async delete(id: number): Promise<void> {

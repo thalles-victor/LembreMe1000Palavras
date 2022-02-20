@@ -9,9 +9,9 @@ export class CreateTodosTable1645307432579 implements MigrationInterface {
                 columns: [
                     {
                         name: 'id',
-                        type: 'int',
+                        type: 'integer',
                         isPrimary: true,
-                        
+                        isGenerated: true,
                         generationStrategy: 'increment'
                     },
                     {

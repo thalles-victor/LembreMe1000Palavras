@@ -22,27 +22,34 @@ interface WordsProps {
 const ChoiceWords: React.FC = () => {
   const { wordsRpository } = useDataBaseConnection();
 
-  const [newWord, setNewWord] = useState('');
   const [words, setwords] = useState<WordsProps[]>([]);
 
   const [listWors, setlistWors] = useState<string[]>([]);
   const [index, setIndex] = useState<number>(1);
   var choiceListWords: string[] = []
 
-  const handleCreateWord = useCallback(async () => {
-    const word = await wordsRpository.create({ id: 10, word: newWord });
 
+
+    const handleCreateWord = async (text: string) => {
+
+    const word = await wordsRpository.create({  word: text });
     setwords(current => [...current, word])
-  }, [newWord, wordsRpository]);
+    console.log( await wordsRpository.getAll())
+  }
 
   useEffect( () => {
     wordsRpository.getAll().then(setwords)
     console.log(words)
-  }, [wordsRpository, words] );
+  }, [wordsRpository] );
 
   useEffect( () => {
     setlistWors( split(index) )
   }, [index]);
+
+  const handleShowAllWords = async () => {
+    console.log("Tdwafdsfasdff")
+    console.log( await wordsRpository.getAll() )
+  }
 
   function behindPage() {
     if(index > 1) {
@@ -66,9 +73,8 @@ const ChoiceWords: React.FC = () => {
               <Label> {item} </Label>
               <ButtonBrand 
                 title='Add'
-                onPress={ () => {
-                  setNewWord(item)
-                  handleCreateWord();
+                onPress={ async () => {
+                  await handleCreateWord(item);
                 }}
               />
             </ItensContainer>
@@ -87,9 +93,10 @@ const ChoiceWords: React.FC = () => {
           title="next"
           onPress={ () => { nextPage() } }
         />
-      </ChangePageContainer>
+      </ChangePageContainer> 
       <NextButton title="Treinar"/>
       <NextButton title="Home"/>
+      <NextButton title="Ver salvos" onPress={ () => handleShowAllWords() } />
     </Container>
   );
 }

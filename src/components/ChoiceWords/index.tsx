@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 
 import {
   Container,
@@ -13,11 +13,32 @@ import {
 } from './styles';
 import { split } from '../../Resolvers/splitListWords';
 
-const Home: React.FC = () => {
+import { useDataBaseConnection } from '../../data/connnection';
+interface WordsProps {
+  id: number;
+  word: string;
+}
+
+const ChoiceWords: React.FC = () => {
+  const { wordsRpository } = useDataBaseConnection();
+
+  const [newWord, setNewWord] = useState('');
+  const [words, setwords] = useState<WordsProps[]>([]);
+
   const [listWors, setlistWors] = useState<string[]>([]);
   const [index, setIndex] = useState<number>(1);
   var choiceListWords: string[] = []
 
+  const handleCreateWord = useCallback(async () => {
+    const word = await wordsRpository.create({ id: 10, word: newWord });
+
+    setwords(current => [...current, word])
+  }, [newWord, wordsRpository]);
+
+  useEffect( () => {
+    wordsRpository.getAll().then(setwords)
+    console.log(words)
+  }, [wordsRpository, words] );
 
   useEffect( () => {
     setlistWors( split(index) )
@@ -46,9 +67,8 @@ const Home: React.FC = () => {
               <ButtonBrand 
                 title='Add'
                 onPress={ () => {
-                  if(!choiceListWords.includes(item))
-                    choiceListWords.push(item)
-                  console.log(choiceListWords)
+                  setNewWord(item)
+                  handleCreateWord();
                 }}
               />
             </ItensContainer>
@@ -74,4 +94,4 @@ const Home: React.FC = () => {
   );
 }
 
-export default Home; 
+export default ChoiceWords; 
